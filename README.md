@@ -4,9 +4,9 @@ A collection of programming experiments, practical assignments, and code written
 
 ## Repository Structure
 
-- **Experiment 1** – Programming experiment files and related code.
-- **Experiment 2** – Additional practical programs and exercises.
-- **Experiment 3** – Further experiments and programming practice.
+- **Experiment 1** – Create a Web Page for Course Curriculum: Use of Headings, Paragraphs, Bold, Italic, Underline, and Special Characters, Ordered List, Unordered List, Description List, Nested List, and Mixed Lists. .
+- **Experiment 2** – Create a Web Page for a News Website with Embedded YouTube Video, Hyperlinks, and Navigation Structure, and Insert Multimedia in a Webpage. .
+- **Experiment 3** – Create Web page for College timetable: Use of tables with rowspan, colspan, headers, captions, and nested tables .
 
 ## Purpose
 
@@ -17,7 +17,8 @@ A collection of programming experiments, practical assignments, and code written
 
 ## Languages and Technologies
 
-The languages and technologies used depend on the individual experiment files.
+Text Editor (VS Code, Sublime Text, Notepad++) .
+Web Browser (Chrome,  Edge, Firefox) .
 
 ## Getting Started
 
